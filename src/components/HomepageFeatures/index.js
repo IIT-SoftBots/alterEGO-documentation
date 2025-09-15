@@ -57,12 +57,12 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Health Monitoring',
+    title: 'Health Companion',
     icon: faHeartbeat,
     color: '#10b981', // Green
     description: (
       <>
-        Can detect changes in your vital signs and remind you to take medication or suggest when to seek medical attention.
+        Can remind you to take medication or suggest when to seek medical attention.
       </>
     ),
   },

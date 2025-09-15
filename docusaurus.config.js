@@ -126,11 +126,11 @@ const config = {
             items: [
               {
                 label: 'Instagram',
-                href: 'https://www.instagram.com/alterego-robot/',
+                href: 'https://www.instagram.com/alterego_robot/',
               },
               {
                 label: 'YouTube',
-                href: 'https://www.youtube.com/channel/alterego-robot',
+                href: 'https://www.youtube.com/channel/alterego_robot',
               },
               // {
               //   label: 'Discord',
