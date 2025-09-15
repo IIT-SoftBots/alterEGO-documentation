@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const organizationName = "IIT-SoftBots";
-const projectName = "/alterEGO-documentation/";
+const projectName = "alterEGO-documentation";
 
 
 /** @type {import('@docusaurus/types').Config} */
