@@ -1,0 +1,24 @@
+luca:
+  name: Luca Garello
+  title: Post-doc researcher
+  url: https://linkedin.com/in/lucagarelloIT
+  image_url: https://scientilla.iit.it/api/v1/users/username/luca.garello@iit.it/profile-image
+  page: true
+  socials:
+    x: lucagarelloIT
+    linkedin: luca-garello-it
+    github: missingsignal
+
+eleonora:
+  name: Eleonora Sguerri
+  title: Docusaurus maintainer
+  # url: https://sebastienlorber.com
+  image_url: https://media.licdn.com/dms/image/v2/C4E03AQHpEAAd29B32A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1626553035717?e=2147483647&v=beta&t=klVACzcIfpCnLma2RY6d9r2Etr3JwFh0nnuR9jUP4Xo
+  page: true
+    # customize the url of the author page at /blog/authors/<permalink>
+    # permalink: '/all-sebastien-lorber-articles'
+  socials:
+    # x: sebastienlorber
+    linkedin: eleonora-sguerri-202a4a217
+    github: elesgu
+    # newsletter: https://thisweekinreact.com

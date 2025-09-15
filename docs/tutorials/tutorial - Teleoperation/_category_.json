@@ -1,0 +1,8 @@
+{
+  "label": "Tutorial - Teleoperation",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Setup Ego for teleoperation",
+  }
+}

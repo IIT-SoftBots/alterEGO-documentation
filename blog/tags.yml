@@ -1,0 +1,14 @@
+publication:
+  label: Publication
+  permalink: /publication
+  description: scientific publication
+
+news:
+  label: News
+  permalink: /news
+  description: News on media and press
+
+announcement:
+  label: Announcement
+  permalink: /announcement
+  description: Announcement on the project

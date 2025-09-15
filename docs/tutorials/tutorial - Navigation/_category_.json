@@ -1,0 +1,8 @@
+{
+  "label": "Tutorial - Navigation",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Setup Ego to map and navigate the environment"
+  }
+}

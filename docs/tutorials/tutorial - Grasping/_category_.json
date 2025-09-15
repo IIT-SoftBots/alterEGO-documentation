@@ -1,0 +1,8 @@
+{
+  "label": "Tutorial - Grasping",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Setup Ego to grasp objects in the environment"
+  }
+}
