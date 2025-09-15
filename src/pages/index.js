@@ -45,8 +45,8 @@ function HomepageHeader() {
           as="h1"
           className="hero__title"
           style={{
-            fontSize: '10rem',
-            fontWeight: 210000,
+            fontSize: '7rem',
+            fontWeight: 2100,
             letterSpacing: '-1px',
             textShadow: '0 2px 16px rgba(0, 0, 0, 0.15)',
             marginBottom: '-0.5rem',
@@ -88,7 +88,6 @@ function HomepageHeader() {
         {/* EGO PICTURE */}
                 {<img
           src={require('/img/homepage.png').default}
-          alt="Alter-Ego Introduction"
           style={{ width: '100%', maxWidth: '800px', height: 'auto', marginBottom: '-0.5rem' }}
           className={styles.introImage}
         />}
